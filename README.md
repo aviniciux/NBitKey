@@ -18,7 +18,7 @@ java TwoFiveSixBits.java
 javac TwoFiveSixBits path-to-your-image.jpg 0
 ```
 
-To run the decrypt stage of the 8-bit version:
+To run the decrypt stage of the 256-bit version:
 ```
 javac TwoFiveSixBits path-to-you-image.jpg 1
 ```
@@ -29,7 +29,7 @@ java NBits.java
 javac NBits path-to-your-image.jpg 0
 ```
 
-To run the decrypt stage of the 8-bit version:
+To run the decrypt stage of the N-bit version:
 ```
 javac NBits path-to-you-image.jpg 1
 ```
